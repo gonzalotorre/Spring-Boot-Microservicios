@@ -1,0 +1,5 @@
+package com.springboot.app.item.models.services;
+
+public class ItemServiceImpl implements ItemService {
+
+}

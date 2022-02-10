@@ -1,0 +1,5 @@
+package com.springboot.app.item.clientes;
+
+public interface ProductoClienteRest {
+
+}

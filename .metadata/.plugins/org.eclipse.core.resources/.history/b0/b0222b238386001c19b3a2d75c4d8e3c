@@ -1,0 +1,5 @@
+package com.springboot.app.productos.models.service;
+
+public interface IProductoService {
+
+}
